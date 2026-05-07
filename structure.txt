@@ -1,0 +1,29 @@
+isekai-brothel-quest/
+├── public/
+│   └── index.html
+├── src/
+│   ├── index.js
+│   ├── App.js
+│   ├── context/
+│   │   └── GameContext.js
+│   ├── reducers/
+│   │   └── gameReducer.js
+│   ├── data/
+│   │   ├── characters.js
+│   │   ├── skills.js
+│   │   ├── items.js
+│   │   ├── maps.js
+│   │   ├── quests.js
+│   │   ├── dialogues.js
+│   │   ├── enemyGroups.js
+│   │   └── cgs.js
+│   ├── components/
+│   │   ├── TitleScreen.js
+│   │   ├── MapView.js
+│   │   ├── DialogueView.js
+│   │   ├── BattleView.js
+│   │   ├── CGView.js
+│   │   └── MenuOverlay.js
+│   └── styles/
+│       └── index.css
+└── package.json
