@@ -1,4 +1,4 @@
-isekai-brothel-quest/
+bordellspiel/
 ├── public/
 │   └── index.html
 ├── src/
@@ -23,7 +23,9 @@ isekai-brothel-quest/
 │   │   ├── DialogueView.js
 │   │   ├── BattleView.js
 │   │   ├── CGView.js
-│   │   └── MenuOverlay.js
+│   │   ├── MenuOverlay.js
+│   │   ├── MinigameView.js
+│   │   └── GiftView.js
 │   └── styles/
 │       └── index.css
 └── package.json
