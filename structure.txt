@@ -16,7 +16,9 @@ bordellspiel/
 │   │   ├── quests.js
 │   │   ├── dialogues.js
 │   │   ├── enemyGroups.js
-│   │   └── cgs.js
+│   │   ├── cgs.js
+│   │   ├── raceAdvantages.js 
+│   │   └── ascensionData.js 
 │   ├── components/
 │   │   ├── TitleScreen.js
 │   │   ├── MapView.js
