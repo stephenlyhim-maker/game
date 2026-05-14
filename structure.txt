@@ -17,8 +17,9 @@ bordellspiel/
 │   │   ├── dialogues.js
 │   │   ├── enemyGroups.js
 │   │   ├── cgs.js
-│   │   ├── raceAdvantages.js 
-│   │   └── ascensionData.js 
+│   │   ├── raceAdvantages.js
+│   │   ├── ascensionData.js
+│   │   └── levelUpStats.js
 │   ├── components/
 │   │   ├── TitleScreen.js
 │   │   ├── MapView.js
@@ -27,7 +28,8 @@ bordellspiel/
 │   │   ├── CGView.js
 │   │   ├── MenuOverlay.js
 │   │   ├── MinigameView.js
-│   │   └── GiftView.js
+│   │   ├── GiftView.js
+│   │   └── GachaView.js
 │   └── styles/
 │       └── index.css
 └── package.json
